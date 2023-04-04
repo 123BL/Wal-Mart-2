@@ -2,3 +2,12 @@
     padding-left:25px;
     padding-right:25px;
   }
+
+  .navbar-nav {
+    background-color: #0071ce;
+  }
+
+  #walmart {
+    height: 20vh;
+    width: 15vw;
+  }
